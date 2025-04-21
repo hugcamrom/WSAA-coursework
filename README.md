@@ -20,12 +20,13 @@ It includes Jupyter notebooks that interact with various web services and APIs, 
 
 ## Repository Structure
 
-WSAA-coursework/
-├── assignments/
-│   ├── assignment02-carddraw.ipynb     # Simulates drawing cards from a shuffled deck
-│   ├── assignment03-cso.ipynb          # Downloads JSON dataset from CSO
-│   ├── assignment04-github.ipynb       # Replaces text in a file and pushes to GitHub
-└── README.md
+README.md
+
+- ssignments
+
+- assignment02-carddraw.ipynb     # Simulates drawing cards from a shuffled deck
+- assignment03-cso.ipynb          # Downloads JSON dataset from CSO
+- assignment04-github.ipynb       # Replaces text in a file and pushes to GitHub
 
 
 ***
