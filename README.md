@@ -20,13 +20,14 @@ using Python and GitHub.
 
 ## Repository Structure
 
+```
 WSAA-coursework/
 ├── assignments/
 │   ├── assignment02-carddraw.ipynb     # Simulates drawing cards from a shuffled deck
 │   ├── assignment03-cso.ipynb          # Downloads JSON dataset from CSO
 │   └── assignment04-github.ipynb       # Replaces text in a file and pushes to GitHub
 └── README.md
-
+```
 ***
 
 ### Requirements
