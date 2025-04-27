@@ -42,7 +42,7 @@ Git installed locally (for assignment04)
 
 GitHub authentication (token setup for pushing)
 
-***
+
 
 🚀 How to Run the Notebooks
 Each notebook is self-contained. To run a notebook:
@@ -55,7 +55,7 @@ Ensure you are connected to the internet for API calls.
 
 For assignment04, ensure GitHub authentication is set up to allow push access.
 
-***
+
 
 📚 Assignment Summaries
 Assignment 02 - Card Draw
@@ -76,7 +76,7 @@ Edits a file by replacing all instances of "Andrew" with "Hugo."
 
 Commits and pushes the changes back to GitHub automatically.
 
-***
+
 
 📖 References
 
@@ -88,7 +88,7 @@ Git Documentation — Used for automation in Assignment 04.
 
 GitHub Personal Access Tokens — For GitHub authentication.
 
-***
+
 
 👤 Author
 Hugo Camach Romero.
