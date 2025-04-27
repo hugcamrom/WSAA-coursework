@@ -1,4 +1,0 @@
-
-Hello Hugo, welcome to the WSAA coursework.
-Hugo is learning about APIs and GitHub automation.
-Good luck Hugo!
