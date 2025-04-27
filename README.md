@@ -27,7 +27,7 @@ WSAA-coursework/
 │   ├── assignment03-cso.ipynb          # Downloads JSON dataset from CSO
 │   └── assignment04-github.ipynb       # Replaces text in a file and pushes to GitHub
 └── README.md
-
+```
 
 
 ⚙️ Requirements
