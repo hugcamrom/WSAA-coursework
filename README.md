@@ -78,5 +78,5 @@ Each notebook is self-contained. To run a notebook:
 
 ## 👤 Author
 
-**Hugo Camach Romero**
+**Hugo Camacho Romero**
 
