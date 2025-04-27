@@ -1,6 +1,13 @@
 # WSAA-coursework
 
+# WSAA-coursework
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status: Coursework](https://img.shields.io/badge/Status-In%20Progress-brightgreen.svg)]()
 ***
+
 
 Analysing data retrieval from external sources (CSO, weather, stocks) in XML, JSON, and CSV formats via APIs, using JavaScript and Python.
 
