@@ -30,66 +30,53 @@ WSAA-coursework/
 ```
 
 
-⚙️ Requirements
+## ⚙️ Requirements
 
-Python 3.x
+- [Python 3.x](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [requests library](https://pypi.org/project/requests/)
+- [Git](https://git-scm.com/)
+- [GitHub authentication (Personal Access Tokens)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-Jupyter Notebook
+---
 
-requests library (for API interaction)
+## 🚀 How to Run the Notebooks
 
-Git installed locally (for assignment04)
-
-GitHub authentication (token setup for pushing)
-
-
-
-🚀 How to Run the Notebooks
 Each notebook is self-contained. To run a notebook:
 
-Open the notebook using Jupyter or VS Code.
+1. Open the notebook using [Jupyter Notebook](https://jupyter.org/) or [VS Code](https://code.visualstudio.com/).
+2. Run all cells from top to bottom.
+3. Ensure you are connected to the internet for API calls.
+4. For Assignment 04, ensure GitHub authentication is set up to allow push access.
 
-Run all cells from top to bottom.
+---
 
-Ensure you are connected to the internet for API calls.
+## 📚 Assignment Summaries
 
-For assignment04, ensure GitHub authentication is set up to allow push access.
+- **Assignment 02 – Card Draw**  
+  Shuffles a deck of cards using the [Deck of Cards API](https://deckofcardsapi.com/).  
+  Draws 5 cards and checks for pairs, triples, straights, or same suits.
 
+- **Assignment 03 – CSO Data Retrieval**  
+  Retrieves the "Exchequer Account (Historical Series)" dataset from the [Central Statistics Office (CSO)](https://www.cso.ie/).  
+  Saves the dataset in JSON format without reformatting.
 
+- **Assignment 04 – GitHub File Update**  
+  Edits a file by replacing all instances of "Andrew" with "Hugo."  
+  Commits and pushes the changes back to GitHub automatically.
 
-📚 Assignment Summaries
-Assignment 02 - Card Draw
+---
 
-Shuffles a deck of cards using Deck of Cards API.
+## 📖 References
 
-Draws 5 cards and checks for pairs, triples, straights, or same suits.
+- [Deck of Cards API](https://deckofcardsapi.com/)
+- [Central Statistics Office (CSO)](https://www.cso.ie/)
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-Assignment 03 - CSO Data Retrieval
+---
 
-Retrieves the "Exchequer Account (Historical Series)" dataset from the Central Statistics Office (CSO).
+## 👤 Author
 
-Saves the dataset in JSON format without reformatting.
-
-Assignment 04 - GitHub File Update
-
-Edits a file by replacing all instances of "Andrew" with "Hugo."
-
-Commits and pushes the changes back to GitHub automatically.
-
-
-
-📖 References
-
-Deck of Cards API — Used in Assignment 02.
-
-Central Statistics Office (CSO) Ireland — Data source for Assignment 03.
-
-Git Documentation — Used for automation in Assignment 04.
-
-GitHub Personal Access Tokens — For GitHub authentication.
-
-
-
-👤 Author
-Hugo Camach Romero.
+**Hugo Camach Romero**
 
