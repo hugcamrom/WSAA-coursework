@@ -30,26 +30,66 @@ WSAA-coursework/
 
 
 
-### Requirements
+⚙️ Requirements
 
 Python 3.x
 
 Jupyter Notebook
 
-requests library
+requests library (for API interaction)
 
-Git access/token for GitHub automation (Assignment 04)
+Git installed locally (for assignment04)
+
+GitHub authentication (token setup for pushing)
 
 ***
 
-### How to Run
+🚀 How to Run the Notebooks
+Each notebook is self-contained. To run a notebook:
 
-Each notebook is self-contained. To run one:
+Open the notebook using Jupyter or VS Code.
 
-1.-Open the notebook using Jupyter.
+Run all cells from top to bottom.
 
-2.- Run all cells from top to bottom.
+Ensure you are connected to the internet for API calls.
 
-3.-Make sure you are connected to the internet for API calls.
+For assignment04, ensure GitHub authentication is set up to allow push access.
 
-4.-For GitHub interaction, ensure proper authentication is set up.
+***
+
+📚 Assignment Summaries
+Assignment 02 - Card Draw
+
+Shuffles a deck of cards using Deck of Cards API.
+
+Draws 5 cards and checks for pairs, triples, straights, or same suits.
+
+Assignment 03 - CSO Data Retrieval
+
+Retrieves the "Exchequer Account (Historical Series)" dataset from the Central Statistics Office (CSO).
+
+Saves the dataset in JSON format without reformatting.
+
+Assignment 04 - GitHub File Update
+
+Edits a file by replacing all instances of "Andrew" with "Hugo."
+
+Commits and pushes the changes back to GitHub automatically.
+
+***
+
+📖 References
+
+Deck of Cards API — Used in Assignment 02.
+
+Central Statistics Office (CSO) Ireland — Data source for Assignment 03.
+
+Git Documentation — Used for automation in Assignment 04.
+
+GitHub Personal Access Tokens — For GitHub authentication.
+
+***
+
+👤 Author
+Hugo Camach Romero.
+
