@@ -8,32 +8,24 @@
 
 ***
 
-Analysing data retrieval from external sources (CSO, weather, stocks) in XML, JSON, and CSV formats via APIs, using JavaScript and Python.
+Analysing data retrieval from external sources (CSO, weather, stocks) in XML, JSON, and CSV formats via APIs, 
+using JavaScript and Python.
 
 This repository contains coursework completed for the Web Services and Applications (WSAA) module.
 
-It includes Jupyter notebooks that interact with various web services and APIs, demonstrating key concepts such as:
-
-- Using public APIs (e.g., Deck of Cards API)
-
-- Working with JSON data
-
-- Retrieving datasets from open data platforms like the CSO (Central Statistics Office)
-
-- Automating changes to GitHub repositories using Python
+The coursework demonstrates interaction with public APIs, retrieval and storage of open data, and basic automation 
+using Python and GitHub.
 
 ***
 
 ## Repository Structure
 
-README.md
-
-- ssignments
-
-- assignment02-carddraw.ipynb     # Simulates drawing cards from a shuffled deck
-- assignment03-cso.ipynb          # Downloads JSON dataset from CSO
-- assignment04-github.ipynb       # Replaces text in a file and pushes to GitHub
-
+WSAA-coursework/
+├── assignments/
+│   ├── assignment02-carddraw.ipynb     # Simulates drawing cards from a shuffled deck
+│   ├── assignment03-cso.ipynb          # Downloads JSON dataset from CSO
+│   └── assignment04-github.ipynb       # Replaces text in a file and pushes to GitHub
+└── README.md
 
 ***
 
